@@ -5,4 +5,3 @@ excerpt: "Projects"
 author_profile: true
 ---
 
-# Projects
