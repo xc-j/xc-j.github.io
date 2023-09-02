@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xinchen Jin"
   avatar           : "profile.png"
-  bio              : "Undergraduate at ShanghaiTech University majoring in Computer Science."
+  bio              : "Undergraduate at ShanghaiTech University majoring in Computer Science"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "jinxch@shanghaitech.edu.cn"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   github           : "nflsjxc"
   google_plus      :
   keybase          :
-  instagram        :
+  # instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  # orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  # twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
