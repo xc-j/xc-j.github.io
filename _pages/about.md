@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate in [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng).  
+I am a senior undergraduate in [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng).  
 
 
 During my undergraduate studies, I gained knowledge in various aspects of computer science. Currently, my interest lies in computer systems and networks.
