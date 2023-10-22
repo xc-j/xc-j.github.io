@@ -13,7 +13,7 @@ I am a senior undergraduate in [School of Information Science and Technology](ht
 
 During my undergraduate studies, I gained knowledge in various aspects of computer science. Currently, my interest lies in computer systems and networks.  
 
-My pet dog is Xueyang Yu @ shanghaitech.
+<!-- My pet dog is Xueyang Yu @ shanghaitech. -->
 
 <!--  
 A data-driven personal website
