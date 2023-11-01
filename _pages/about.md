@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng).  
+Hi! I'm Xinchen, a senior undergraduate in [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng). I'm from Nanjing, Jiangsu, China.
 
 
-During my undergraduate studies, I gained knowledge in various aspects of computer science. Currently, my interest lies in computer systems and networks.  
+During my undergraduate studies, I gained knowledge in various aspects of computer science. My research experience involved ML System, networked system. My research interest lies in computer systems and networks. 
 
-<!-- My pet dog is Xueyang Yu @ shanghaitech. -->
+Currently I am working on a program analysis project aiming to make dynamic type inference with deep learning models.
+
+
 
 <!--  
 A data-driven personal website
