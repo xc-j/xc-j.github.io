@@ -11,10 +11,12 @@ redirect_from:
 Hi! I'm Xinchen Jin, a senior undergraduate in [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng). I'm from Nanjing, Jiangsu, China.
 
 
-Throughout my undergraduate studies, I have developed a solid foundation in various aspects of computer science. My research experience involves ML System, networked system. My research interest lies in the system field.
+Throughout my undergraduate studies, I have developed a solid foundation in various aspects of computer science. My research experience involves ML System, networked system, and software engineering. 
+
+<!-- My research interest lies in the system field. -->
 
 
-Currently I am working on a program analysis project aiming to make dynamic type inference with deep learning models.
+<!-- Currently I am working on a program analysis project aiming to make dynamic type inference with deep learning models. -->
 
 
 
