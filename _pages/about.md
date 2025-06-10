@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xinchen Jin, a senior undergraduate in [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng). I'm from Nanjing, Jiangsu, China.
+Hi! I'm Xinchen Jin, a first year PhD student at Purdue University. I'm from Nanjing, Jiangsu, China.
 
 
-Throughout my undergraduate studies, I have developed a solid foundation in various aspects of computer science. My research experience involves ML System, networked system, and software engineering. 
+<!-- Throughout my undergraduate studies, I have developed a solid foundation in various aspects of computer science. My research experience involves ML System, networked system, and software engineering.  -->
 
 <!-- My research interest lies in the system field. -->
 
