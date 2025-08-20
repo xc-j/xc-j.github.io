@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xinchen Jin, a first year PhD student at Purdue University. I'm from Nanjing, Jiangsu, China.
+Hi! I'm Xinchen Jin, a second year CS PhD student at Purdue University. 
 
 
 <!-- Throughout my undergraduate studies, I have developed a solid foundation in various aspects of computer science. My research experience involves ML System, networked system, and software engineering.  -->
