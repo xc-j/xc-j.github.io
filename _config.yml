@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinchen Jin"
 title_separator          : "-"
 name                     : &name "Xinchen Jin"
-description              : &description "Undergraduate at ShanghaiTech University majoring in Computer Science."
+description              : &description "CS PhD student at Purdue University working on robot learning."
 url                      : https://xc-j.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xc-j/xc-j.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xinchen Jin"
   avatar           : "me.png"
-  bio              : "CS PhD Student at Purdue University"
+  bio              : "CS PhD Student at Purdue University, working on robot learning"
   location         : "West Lafayette, Indiana, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Sdgut4YAAAAJ"
   email            : "jin548@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "xinchen-jin"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

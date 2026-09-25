@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xinchen Jin, a second year CS PhD student at Purdue University. 
+Hi! I'm Xinchen Jin, a third-year CS PhD student at Purdue University, advised by [Professor Rohan Paleja](https://www.rohanpaleja.com/) in the [SCALE Robotics Lab](https://scaleroboticslab.com/). I am currently working on robot learning.
 
 
 <!-- Throughout my undergraduate studies, I have developed a solid foundation in various aspects of computer science. My research experience involves ML System, networked system, and software engineering.  -->
