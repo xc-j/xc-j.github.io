@@ -10,6 +10,12 @@ redirect_from:
 
 Hi! I'm Xinchen Jin, a third-year CS PhD student at Purdue University, advised by [Professor Rohan Paleja](https://www.rohanpaleja.com/) in the [SCALE Robotics Lab](https://scaleroboticslab.com/). I am currently working on robot learning.
 
+## Publications
+
+**Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies**  
+**Xinchen Jin**, Aditya Chatterjee, Pranav Kumar, Rohan Paleja  
+*NeurIPS 2026* · [arXiv](https://arxiv.org/abs/2605.17204) · [Code](https://github.com/xc-j/Event-SAE)
+
 
 <!-- Throughout my undergraduate studies, I have developed a solid foundation in various aspects of computer science. My research experience involves ML System, networked system, and software engineering.  -->
 
