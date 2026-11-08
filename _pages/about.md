@@ -12,7 +12,7 @@ Hi! I'm Xinchen Jin, a third-year CS PhD student at Purdue University, advised b
 
 ## Publications
 
-**Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies**  
+Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies  
 **Xinchen Jin**, Aditya Chatterjee, Pranav Kumar, Rohan Paleja  
 *NeurIPS 2026* · [arXiv](https://arxiv.org/abs/2605.17204) · [Code](https://github.com/xc-j/Event-SAE)
 

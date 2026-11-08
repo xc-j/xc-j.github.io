@@ -236,8 +236,12 @@
   }
 }
 
-/* Visitor map: display only, not clickable */
-.author__visitor-map a {
-  pointer-events: none;
+/* Visitor map: display only, not clickable
+   (cursor reset because .author__urls-wrapper sets cursor: pointer) */
+.author__visitor-map {
   cursor: default;
+
+  a {
+    pointer-events: none;
+  }
 }
