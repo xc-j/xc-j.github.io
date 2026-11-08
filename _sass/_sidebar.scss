@@ -235,3 +235,9 @@
     }
   }
 }
+
+/* Visitor map: display only, not clickable */
+.author__visitor-map a {
+  pointer-events: none;
+  cursor: default;
+}
